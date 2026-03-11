@@ -8,6 +8,7 @@ Pano Scrobbler is a free cross-platform app that supports Windows, Linux and And
 * [alxtrnr][2] ([monaxle][3] on libre.fm)
 * [MitenkovIvan][4] ([m1t3nk0v][5] on libre.fm)
 * [wgrav][6] ([wgrav][7] on libre.fm)
+* [marcdw1289](https://github.com/marcdw1289) ([marcdw](https://libre.fm/user/marcdw) on libre.fm)
 * Add your username/URL here
 
 [0]: https://github.com/inan-hira
