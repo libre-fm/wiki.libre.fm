@@ -59,7 +59,7 @@ For each client, we'd like to know:
 | [[cplay scrobbler]]       | cpl         |                                         | Yes                | No         |
 | [[Cuberok]]               | cub         | N/A                                     | Yes                | No         |
 | [[DeaDBeeF]]              | ddb         | N/A                                     | Yes                | No         |
-| [[Foobar2000]]            | foo         | N/A                                     | Yes                | No         |
+| [[Foobar2000]]            | N/A         | @httpsterio                             | No                 | No         |
 | [[fooyin]]                | N/A         | @ludouzi                                | No                 | No         |
 | [[Last.fm player]]        | ass         | N/A                                     | Yes                | No         |
 | [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
